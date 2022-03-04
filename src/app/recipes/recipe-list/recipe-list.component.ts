@@ -10,13 +10,13 @@ export class RecipeListComponent implements OnInit {
   recipes: Recipe[] = [
     new Recipe(
       'A Test Recipe',
-      'This is a simply test',
-      'https://www.inspiredtaste.net/wp-content/uploads/2022/01/Homemade-Vegan-Meatballs-1-1200.jpg'
+      'This is simply a test',
+      'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F02%2F18%2F16354-easy-meatloaf-mfs-76.jpg'
     ),
     new Recipe(
       'A Test Recipe',
-      'This is a simply test',
-      'https://www.inspiredtaste.net/wp-content/uploads/2022/01/Homemade-Vegan-Meatballs-1-1200.jpg'
+      'This is simply a test',
+      'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F02%2F18%2F16354-easy-meatloaf-mfs-76.jpg'
     ),
   ];
 
